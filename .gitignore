@@ -1,0 +1,9 @@
+
+manage.py
+uwsgi.ini
+sftp-config.json
+MySQL/
+static/
+theme/
+deanBobo/settings.py
+deanBobo/wsgi.py
